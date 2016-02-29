@@ -1,0 +1,9 @@
+[global]
+floatX = float32
+device = gpu
+
+
+[lib]
+cnmem =0.9
+
+
